@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- 1. Write a javascript program to sort array method (var arr = ["php","angular js","android","ruby","python"]). -->
+
+    <!-- <script>
+        let arr = ["php", "angular js", "android", "ruby", "python"];
+        arr.sort();
+        document.write("Sorted array : ", arr);
+    </script> -->
+
+    <!-- ---------------------------------------------------------------------------------------------------------------->
+
+    <!-- 2. Write a javascript program to reverce array method.(var arr = ["php","angular js","android","ruby","python"]). -->
+
+    <!-- <script>
+        let arr = ["php", "angular js", "android", "ruby", "python"];
+        arr.reverse();
+        document.write("Reverse array : ", arr);
+    </script> -->
+
+    <!------------------------------------------------------------------------------------------------------------------->
+
+    <!-- 3.Write a javascript program to remove last element in array. -->
+
+    <!-- <script>
+        let arr = ["php", "angular js", "android", "ruby", "python"];
+        arr.pop();
+        document.write("Array after removing last element : ", arr);
+    </script> -->
+
+    <!------------------------------------------------------------------------------------------------------------------->
+
+    <!-- 4. Write a javascript program to add first element in array. -->
+
+    <!-- <script>
+        let arr = ["php", "angular js", "android", "ruby", "python"];
+
+        let addarr = "javascript";
+        arr.unshift(addarr);
+        document.write("Array after adding first element : ", arr);
+    </script> -->
+
+    <!------------------------------------------------------------------------------------------------------------------->
+
+    <!-- 5.Write a simple JavaScript program to string convert upper to lowercase. -->
+
+    <!-- <script>
+        let str = "HELLO JAVASCRIPT";
+        let lowercase = str.toLowerCase();
+        document.write("String converted to lowercase : ", lowercase);
+    </script> -->
+
+    <!------------------------------------------------------------------------------------------------------------------->
+
+    <!-- 6.Write a javascript program to convert string to array. -->
+
+    <!-- <script>
+        let str= "Hello Javascript";
+        let arr = str.split('');
+        console.log(arr);
+    </script> -->
+
+    <!------------------------------------------------------------------------------------------------------------------->
+
+    <!-- 7.Write a javascript program to all array element sum(using array map method). -->
+
+
+
+
+
+
+
+
+    
+    <!------------------------------------------------------------------------------------------------------------------->
+
+    <!-- 8.Write a javascript program to find all negative elements(using array filter method). -->
+
+    <!-- <script>
+        let arr = [10, -20, 30, -40, 50, -60, 70, -80];
+        let negarr = arr.filter(num => num < 0);
+        console.log("Negative elements:", negarr);
+    </script> -->
+
+    <!------------------------------------------------------------------------------------------------------------------->
+
+    <!-- 9.Write a javascript program to convert array to string. -->
+
+    <!-- <script>
+        let arr = ["php", "angular js", "android", "ruby", "python"];
+        let arrString = arr.toString();
+        console.log("Array converted to string : ", arrString);
+    </script> -->
+    
+</body>
+</html>
